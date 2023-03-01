@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Gothellsz
+ *
+ */
+module byteBank {
+}
